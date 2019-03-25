@@ -33,5 +33,6 @@ if __name__ == "__main__":
     wgraph.add_edge(1, 4, 50)
     wgraph.add_edge(2, 3, 60)
     wgraph.add_edge(3, 4, 70)
-
     wgraph.print_graph()
+
+    print("Contoh git commit")
