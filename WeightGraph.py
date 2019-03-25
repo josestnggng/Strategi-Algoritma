@@ -36,3 +36,4 @@ if __name__ == "__main__":
     wgraph.print_graph()
 
     print("Contoh git commit")
+    print("branch")
